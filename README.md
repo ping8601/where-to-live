@@ -1,5 +1,5 @@
-# where-to-go
-WHERE TO GO is an app that helps users to find the most suitable US state to live in based on a simple survey and provides living environment information about the state. The app offers a recommendation state after users rank the environment feature according to their preference. Besides, information that home seekers care about most like climate, education rates, crime rates, health funding, income and living cost from the most recent database of each state can also be found on the recommendation page.
+# where-to-live
+WHERE TO LIVE is an app that helps users to find the most suitable US state to live in based on a simple survey and provides living environment information about the state. The app offers a recommendation state after users rank the environment feature according to their preference. Besides, information that home seekers care about most like climate, education rates, crime rates, health funding, income and living cost from the most recent database of each state can also be found on the recommendation page.
 
 ## Installation
 Here are the modules used in the code. Please install if you do not have them.
