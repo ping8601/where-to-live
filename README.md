@@ -23,8 +23,6 @@ Here are the modules used in the code. Please install if you do not have them.
 * beautifulsoup
 * urlopen
 
-## 
-
 ## Usage
 1. Open the main.py file in Anaconda and run it.
 2. Rank the importance of each feature and click the `Next Step` (1 for the most Important). Please do not select duplicated numbers on the same page, or an error message will pop out.
@@ -32,6 +30,14 @@ Here are the modules used in the code. Please install if you do not have them.
 4. Click the `Click to View Climate Data` to view the yearly temperature trend and monthly precipitation trend.
 5. Click `restart` to retake the survey.
 6. Click `exit` to exit the program.
+
+## Data Source
+1. Climate: https://www.ncei.noaa.gov/pub/data/normals/1981-2010/source-datasets/
+2. Education attainment: https://data.census.gov/cedsci/table?q=S1501&g=0100000US%240400000&tid=ACSST1Y2021.S1501&moe=false
+3. Income: https://fred.stlouisfed.org/release/tables?rid=110&eid=257197#snid=257202
+4. Consumer spending: https://www.bea.gov/data/consumer-spending/state
+5. Living environment: https://www.mphonline.org/green-states/
+6. Crime rate: https://en.wikipedia.org/wiki/List_of_U.S._states_and_territories_by_violent_crime_rate
 
 ## Author
 * Elena Hung: wanpingh 
